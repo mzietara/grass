@@ -116,7 +116,7 @@ int main(int argc, char *argv[])
     double fcost;
     double min_cost, old_min_cost;
     FCELL cur_dir;
-    double zero = 0.0;
+    double zero = 1.0;
     int col, row, nrows, ncols;
     int maxcost;
     int nseg, nbytes;

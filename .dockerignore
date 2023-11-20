@@ -4,6 +4,7 @@ docker
 .github
 .travis
 .travis.yml
+run.sh
 
 # The following git files are needed by GRASS GIS to extract the revision
 # during compilation. If you are not using one of the Dockerimages from this
